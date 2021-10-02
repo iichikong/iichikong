@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iichikong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in scientific computing
+- 🌱 I’m currently learning statistics and scientific computing
 - 📫 How to reach me at my email keigo.ando@stonybrook.edu 
 
 <!---
