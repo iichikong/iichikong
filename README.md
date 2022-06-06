@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keigo Ando
 - 👀 I’m interested in scientific computing
-- 🌱 I’m currently learning statistics and scientific computing
+- 🌱 I’m currently learning Computer Science & Mathematics at NYU
 - 📫 How to reach me at my email ka2705 [at] nyu.edu 
 
 <!---
